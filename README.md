@@ -53,23 +53,6 @@ Link your `public/storage` folder to `storage/app/public` folder:
   $ php artisan link
 ```
 
-## Features
-
--   User registration
--   File uploading
--   File downloading
--   File editing
--   File deleting
--   File searching
--   User's uploaded files page
--   Recently uploaded files page
--   File's information page
--   Preview for image files
--   Players for audio and video files
--   Nested comments
--   Adaptive design
--   Flash messages
-
 ## License
 
 This app uses
